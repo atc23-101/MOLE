@@ -1,0 +1,6 @@
+[submodule "3rd/fastmoe"]
+	path = 3rd/fastmoe
+	url = https://github.com/laekov/fastmoe
+[submodule "3rd/tutel"]
+	path = 3rd/tutel
+	url = https://github.com/microsoft/tutel.git
